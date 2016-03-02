@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>checklist-model</artifactId>
-    <version>0.9.0-SNAPSHOT</version>
+    <version>0.9.0</version>
     <name>checklist-model</name>
     <description>WebJar for checklist-model</description>
     <url>http://webjars.org</url>
@@ -43,7 +43,7 @@
         <url>http://github.com/webjars/checklist-model</url>
         <connection>scm:git:https://github.com/webjars/checklist-model.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/checklist-model.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>checklist-model-0.9.0</tag>
     </scm>
     
     <build>
